@@ -1,0 +1,11 @@
+# Do not edit - changes here will be overwritten by Copier
+_commit: v1
+_src_path: gh:pydev-guide/pyrepo-copier
+author_email: adrianos.filinis@unibe.ch
+author_name: Adrianos Filinis
+github_username: adfilinis
+mode: tooling
+module_name: pyadv_courseaf
+project_name: pyadv-courseaf
+project_short_description: Demo package for live course
+
