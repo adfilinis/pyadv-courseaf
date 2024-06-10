@@ -6,4 +6,4 @@
 [![CI](https://github.com/adfilinis/pyadv-courseaf/actions/workflows/ci.yml/badge.svg)](https://github.com/adfilinis/pyadv-courseaf/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/adfilinis/pyadv-courseaf/branch/main/graph/badge.svg)](https://codecov.io/gh/adfilinis/pyadv-courseaf)
 
-Demo package for live course
+Demo package for live course.
